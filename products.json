@@ -1,0 +1,82 @@
+[
+  {
+    "name": "apple",
+    "price": 200,
+    "featured": true,
+    "category": "fruits",
+    "image": "http://nepalekhabar.com/wp-content/uploads/2016/07/DDC.jpg",
+    "description": "Fresh and juicy apples, perfect for a healthy snack."
+  },
+  {
+    "name": "milk",
+    "price": 50,
+    "featured": true,
+    "category": "dairy",
+    "image": "http://nepalekhabar.com/wp-content/uploads/2016/07/DDC.jpg",
+    "description": "Nutrient-rich and creamy milk, essential for daily consumption."
+  },
+  {
+    "name": "lays",
+    "price": 75,
+    "featured": true,
+    "category": "snacks",
+    "image": "http://nepalekhabar.com/wp-content/uploads/2016/07/DDC.jpg",
+    "description": "Classic potato chips, a perfect companion for your leisure time."
+  },
+  {
+    "name": "bread",
+    "price": 60,
+    "featured": true,
+    "category": "dairy",
+    "image": "http://nepalekhabar.com/wp-content/uploads/2016/07/DDC.jpg",
+    "description": "Soft and fresh bread, ideal for making sandwiches or toast."
+  },
+  {
+    "name": "banana",
+    "price": 100,
+    "featured": true,
+    "category": "fruits",
+    "image": "http://nepalekhabar.com/wp-content/uploads/2016/07/DDC.jpg",
+    "description": "Sweet and nutritious bananas, a quick energy boost."
+  },
+  {
+    "name": "waiwai",
+    "price": 25,
+    "featured": true,
+    "category": "snacks",
+    "image": "http://nepalekhabar.com/wp-content/uploads/2016/07/DDC.jpg",
+    "description": "Instant noodles for a convenient and delicious meal."
+  },
+  {
+    "name": "biscuits",
+    "price": 20,
+    "featured": true,
+    "category": "snacks",
+    "image": "http://nepalekhabar.com/wp-content/uploads/2016/07/DDC.jpg",
+    "description": "Crunchy biscuits, perfect for tea time or snacking on the go."
+  },
+  {
+    "name": "strawberry",
+    "price": 100,
+    "featured": true,
+    "category": "fruits",
+    "image": "http://nepalekhabar.com/wp-content/uploads/2016/07/DDC.jpg",
+    "description": "Delicious strawberries, a delightful addition to desserts or salads."
+  },
+  {
+    "name": "exo",
+    "price": 20,
+    "featured": true,
+    "category": "detergent",
+    "image": "http://nepalekhabar.com/wp-content/uploads/2016/07/DDC.jpg",
+    "description": "Exo detergent for effective and refreshing laundry."
+  },
+  {
+    "name": "sunslik",
+    "price": 2.5,
+    "featured": true,
+    "category": "detergent",
+    "image": "http://nepalekhabar.com/wp-content/uploads/2016/07/DDC.jpg",
+    "description": "Exo detergent for effective and refreshing laundry."
+  }
+]
