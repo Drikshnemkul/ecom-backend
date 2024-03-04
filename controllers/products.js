@@ -48,6 +48,22 @@ const getAllProducts = async (req, res) => {
   res.status(200).json(myData);
 };
 
+const getSingleProduct = async (req, res) => {
+  try {
+    const productId = req.params.productId; // Assuming you pass the product ID as a parameter in the URL
+    const product = await Product.findById(productId);
+
+    if (!product) {
+      return res.status(404).json({ message: "Product not found" });
+    }
+
+    res.status(200).json(product);
+  } catch (error) {
+    console.error(error);
+    res.status(500).json({ message: "Internal Server Error" });
+  }
+};
+
 const getAllProductsTesting = async (req, res) => {
   console.log(req.query);
   const myData = await Product.find(req.query).skip(2);
@@ -56,4 +72,4 @@ const getAllProductsTesting = async (req, res) => {
   res.status(200).json(myData);
 };
 
-module.exports = { getAllProducts, getAllProductsTesting };
+module.exports = { getAllProducts, getAllProductsTesting, getSingleProduct };

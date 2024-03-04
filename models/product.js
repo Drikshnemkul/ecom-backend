@@ -23,10 +23,13 @@ const productSchema = new mongoose.Schema({
       message: `{VALUE} is not supported`,
     },
   },
+  stock: {
+    type: Number,
+  },
   description: {
     type: String,
   },
-  rating: {
+  review: {
     type: Number,
     default: 4.9,
   },

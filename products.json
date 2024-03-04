@@ -4,79 +4,99 @@
     "price": 200,
     "featured": true,
     "category": "fruits",
+    "stock": 10,
     "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Ffree-png%2Fapple&psig=AOvVaw1l2_guqITNMKmpPbPQXYFB&ust=1709617998540000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwi4nae99dmEAxXSbmwGHUPVDtUQjRx6BAgAEBc",
-    "description": "Fresh and juicy apples, perfect for a healthy snack."
+    "description": "Fresh and juicy apples, perfect for a healthy snack.",
+    "review": 4.5
   },
   {
     "name": "milk",
     "price": 50,
     "featured": true,
     "category": "dairy",
+    "stock": 15,
     "image": "http://nepalekhabar.com/wp-content/uploads/2016/07/DDC.jpg",
-    "description": "Nutrient-rich and creamy milk, essential for daily consumption."
+    "description": "Nutrient-rich and creamy milk, essential for daily consumption.",
+    "review": 3
   },
   {
     "name": "lays",
     "price": 75,
     "featured": true,
     "category": "snacks",
+    "stock": 20,
     "image": "http://nepalekhabar.com/wp-content/uploads/2016/07/DDC.jpg",
-    "description": "Classic potato chips, a perfect companion for your leisure time."
+    "description": "Classic potato chips, a perfect companion for your leisure time.",
+    "review": 2
   },
   {
     "name": "bread",
     "price": 60,
     "featured": true,
     "category": "dairy",
-    "image": "http://nepalekhabar.com/wp-content/uploads/2016/07/DDC.jpg",
-    "description": "Soft and fresh bread, ideal for making sandwiches or toast."
+    "stock": 10,
+    "image": "https://thumbs.dreamstime.com/z/loaf-bread-3137019.jpg?ct=jpeg",
+    "description": "Soft and fresh bread, ideal for making sandwiches or toast.",
+    "review": 4.5
   },
   {
     "name": "banana",
     "price": 100,
     "featured": true,
     "category": "fruits",
+    "stock": 10,
     "image": "http://nepalekhabar.com/wp-content/uploads/2016/07/DDC.jpg",
-    "description": "Sweet and nutritious bananas, a quick energy boost."
+    "description": "Sweet and nutritious bananas, a quick energy boost.",
+    "review": 2.5
   },
   {
     "name": "waiwai",
     "price": 25,
     "featured": true,
+    "stock": 10,
     "category": "snacks",
     "image": "http://nepalekhabar.com/wp-content/uploads/2016/07/DDC.jpg",
-    "description": "Instant noodles for a convenient and delicious meal."
+    "description": "Instant noodles for a convenient and delicious meal.",
+    "review": 3.5
   },
   {
     "name": "biscuits",
     "price": 20,
     "featured": true,
+    "stock": 10,
     "category": "snacks",
     "image": "https://m.media-amazon.com/images/I/713E9a1Q29L._SL1200_.jpg",
-    "description": "Crunchy biscuits, perfect for tea time or snacking on the go."
+    "description": "Crunchy biscuits, perfect for tea time or snacking on the go.",
+    "review": 2.5
   },
   {
     "name": "strawberry",
     "price": 100,
     "featured": true,
+    "stock": 10,
     "category": "fruits",
     "image": "http://nepalekhabar.com/wp-content/uploads/2016/07/DDC.jpg",
-    "description": "Delicious strawberries, a delightful addition to desserts or salads."
+    "description": "Delicious strawberries, a delightful addition to desserts or salads.",
+    "rating": 2.5
   },
   {
     "name": "exo",
     "price": 20,
     "featured": true,
+    "stock": 10,
     "category": "detergent",
     "image": "http://nepalekhabar.com/wp-content/uploads/2016/07/DDC.jpg",
-    "description": "Exo detergent for effective and refreshing laundry."
+    "description": "Exo detergent for effective and refreshing laundry.",
+    "review": 4.5
   },
   {
     "name": "sunslik",
     "price": 2.5,
     "featured": true,
+    "stock": 10,
     "category": "detergent",
     "image": "http://nepalekhabar.com/wp-content/uploads/2016/07/DDC.jpg",
-    "description": "Exo detergent for effective and refreshing laundry."
+    "description": "Exo detergent for effective and refreshing laundry.",
+    "review": 2.5
   }
 ]
